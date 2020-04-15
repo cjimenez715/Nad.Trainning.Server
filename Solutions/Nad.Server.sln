@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nad.Trainning.Server", "..\ServerLayer\Nad.Trainning.Server\Nad.Trainning.Server.csproj", "{BE16B73B-8B4D-4FC6-8032-5C936DD8C449}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nad.Trainning.Server.Test", "..\Framework\Server\Nad.Trainning.Server.Test\Nad.Trainning.Server.Test.csproj", "{9BD53806-020C-495B-B27F-2064E4736CAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE16B73B-8B4D-4FC6-8032-5C936DD8C449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE16B73B-8B4D-4FC6-8032-5C936DD8C449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE16B73B-8B4D-4FC6-8032-5C936DD8C449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE16B73B-8B4D-4FC6-8032-5C936DD8C449}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BD53806-020C-495B-B27F-2064E4736CAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BD53806-020C-495B-B27F-2064E4736CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BD53806-020C-495B-B27F-2064E4736CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BD53806-020C-495B-B27F-2064E4736CAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2379E26B-B32A-49B5-8CEE-6596DEEF3808}
+	EndGlobalSection
+EndGlobal
