@@ -1,6 +1,7 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Nad.Trainning.Server.Business;
+using Nad.Trainning.Server.DAO.Entities;
 
 namespace Nad.Trainning.Server.Test
 {
@@ -12,6 +13,17 @@ namespace Nad.Trainning.Server.Test
         {
             var business = new PersonBusiness();
             var result = business.GetAll();
+        }
+
+        [TestMethod]
+        public void SaveTest()
+        {
+            var business = new PersonBusiness();
+            var person = new Person();
+            person.Name = "Test Save";
+            person.LastName = "From GIT";
+            person.Age = 50;
+            var result = business.Save(person);
         }
     }
 }
