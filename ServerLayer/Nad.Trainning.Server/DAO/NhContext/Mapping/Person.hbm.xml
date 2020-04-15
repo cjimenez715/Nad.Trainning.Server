@@ -1,0 +1,10 @@
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" schema="dbo" assembly="Nad.Trainning.Server" namespace="Nad.Trainning.Server.DAO.Entities" default-lazy="false" default-cascade="none">
+  <class name="Nad.Trainning.Server.DAO.Entities.Person" table="Person">
+    <id name="Id" column="Id" type="Int32" unsaved-value="0">
+      <generator class="native" />
+    </id>
+    <property name="Name" column="Name" type="AnsiString" />
+    <property name="LastName" column="LastName" type="AnsiString" />
+    <property name="Age" column="Age" type="Int32" />
+  </class>
+</hibernate-mapping>
