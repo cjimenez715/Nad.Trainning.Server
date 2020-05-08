@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nad.Trainning.Server", "..\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nad.Trainning.Api", "..\Api\Nad.Trainning.Api\Nad.Trainning.Api.csproj", "{9652D845-BE6C-49C5-BB07-B5E02DCBEC32}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nad.Trainning.Owin.Api", "..\Api\Nad.Trainning.Owin.Api\Nad.Trainning.Owin.Api.csproj", "{B4FA0399-1A32-427C-8C2C-240C8647F12E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9652D845-BE6C-49C5-BB07-B5E02DCBEC32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9652D845-BE6C-49C5-BB07-B5E02DCBEC32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9652D845-BE6C-49C5-BB07-B5E02DCBEC32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4FA0399-1A32-427C-8C2C-240C8647F12E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4FA0399-1A32-427C-8C2C-240C8647F12E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4FA0399-1A32-427C-8C2C-240C8647F12E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4FA0399-1A32-427C-8C2C-240C8647F12E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
