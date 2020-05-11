@@ -25,7 +25,6 @@ D:\NAD Training\Nad.Trainning.Server\ServerLayer\Nad.Trainning.Server\obj\Debug\
 D:\NAD Training\Nad.Trainning.Server\ServerLayer\Nad.Trainning.Server\obj\Debug\Nad.Trainning.Server.csproj.CopyComplete
 D:\NAD Training v2\Nad.Trainning.Server\ServerLayer\Nad.Trainning.Server\bin\Debug\Nad.Trainning.Server.dll
 D:\NAD Training v2\Nad.Trainning.Server\ServerLayer\Nad.Trainning.Server\bin\Debug\Nad.Trainning.Server.pdb
-D:\NAD Training v2\Nad.Trainning.Server\ServerLayer\Nad.Trainning.Server\obj\Debug\Nad.Trainning.Server.csprojAssemblyReference.cache
 D:\NAD Training v2\Nad.Trainning.Server\ServerLayer\Nad.Trainning.Server\obj\Debug\Nad.Trainning.Server.csproj.CoreCompileInputs.cache
 D:\NAD Training v2\Nad.Trainning.Server\ServerLayer\Nad.Trainning.Server\obj\Debug\Nad.Trainning.Server.csproj.CopyComplete
 D:\NAD Training v2\Nad.Trainning.Server\ServerLayer\Nad.Trainning.Server\obj\Debug\Nad.Trainning.Server.dll

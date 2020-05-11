@@ -8,6 +8,7 @@ using System.Web.Http;
 
 namespace Nad.Trainning.Owin.Api.Controllers
 {
+    [RoutePrefix("Person")]
     public class PersonController : ApiController
     {
         private PersonBusiness business;
@@ -20,9 +21,21 @@ namespace Nad.Trainning.Owin.Api.Controllers
             var result = business.GetAll().FirstOrDefault();
             return Ok(result);
         }
-
-
-        public Person Post(Person person)
+        [Route("getAll")]
+        [HttpGet]
+        public IList<Person> GetAll()
+        {
+            return business.GetAll();
+        }
+        [Route("DeleteById/{Id}")]
+        [HttpDelete]
+        public IHttpActionResult Delete(int Id) {
+            var person = business.GetById(Id);
+            business.Delete(person);
+            return Ok();
+        }
+        [Route(), HttpPost]
+        public Person Post( [FromBody] Person person)
         {
             var result = business.Save(person);
             return result;     

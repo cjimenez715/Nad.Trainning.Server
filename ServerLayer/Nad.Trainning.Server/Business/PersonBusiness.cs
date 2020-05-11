@@ -32,9 +32,13 @@ namespace Nad.Trainning.Server.Business
             return dataAccess.GetAll().ToList();
         }
 
-        public Person Get(int id)
+        public Person GetById(int id)
         {
             return dataAccess.Select(id);
+        }
+        public IList<Person> GetByFilter(string filter)
+        {
+            return dataAccess.GetByFilter(filter);
         }
     }
 }

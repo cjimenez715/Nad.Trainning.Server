@@ -10,5 +10,6 @@ namespace Nad.Trainning.Server.DAO.Contract
 {
     public interface IPersonDAO : IDataAccess<Person>
     {
+        IList<Person> GetByFilter(string filter);
     }
 }
