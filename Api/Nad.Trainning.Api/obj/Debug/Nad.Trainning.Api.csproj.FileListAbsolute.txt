@@ -87,3 +87,185 @@ C:\Disk D Cristhian\Task TFS\NAD.Angular\NADTrainning\Nad.Trainning.Server\Api\N
 C:\Disk D Cristhian\Task TFS\NAD.Angular\NADTrainning\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\Sda.Data.NHibernateAccess.dll
 C:\Disk D Cristhian\Task TFS\NAD.Angular\NADTrainning\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\Sda.Utils.dll
 C:\Disk D Cristhian\Task TFS\NAD.Angular\NADTrainning\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\Nad.Trainning.Server.pdb
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\Nad.Trainning.Api.dll.config
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\Nad.Trainning.Api.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\Nad.Trainning.Api.pdb
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\csc.exe
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\csc.exe.config
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\csc.rsp
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\csi.exe
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\csi.exe.config
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\csi.rsp
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\Microsoft.Managed.Core.targets
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.AppContext.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.Collections.Immutable.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.Console.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.IO.Compression.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.IO.FileSystem.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.IO.Pipes.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.Reflection.Metadata.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.Security.AccessControl.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.Security.Claims.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.Security.Principal.Windows.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.ValueTuple.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.Xml.XmlDocument.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.Xml.XPath.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\vbc.exe
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\vbc.exe.config
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\vbc.rsp
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\VBCSCompiler.exe
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\VBCSCompiler.exe.config
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\Antlr3.Runtime.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\Iesi.Collections.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\Microsoft.Web.Infrastructure.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\Newtonsoft.Json.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Net.Http.Formatting.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Web.Helpers.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Web.Http.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Web.Http.WebHost.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Web.Mvc.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Web.Optimization.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Web.Razor.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Web.WebPages.Deployment.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Web.WebPages.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Web.WebPages.Razor.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\WebGrease.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\Newtonsoft.Json.xml
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Net.Http.Formatting.xml
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Web.Helpers.xml
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Web.Http.xml
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Web.Http.WebHost.xml
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Web.Mvc.xml
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Web.Optimization.xml
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Web.Razor.xml
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Web.WebPages.xml
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Web.WebPages.Deployment.xml
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Web.WebPages.Razor.xml
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\Antlr3.Runtime.pdb
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\obj\Debug\Nad.Trainning.Api.csprojResolveAssemblyReference.cache
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\obj\Debug\Nad.Trainning.Api.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\obj\Debug\Nad.Trainning.Api.pdb
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\Nad.Trainning.Server.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\Nad.Trainning.Server.pdb
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\NHibernate.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\Sda.Core.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\Sda.Data.NHibernateAccess.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\Sda.Utils.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Web.Cors.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Web.Http.Cors.dll
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Web.Http.Cors.xml
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\Nad.Trainning.Api.dll.config
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\Nad.Trainning.Api.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\Nad.Trainning.Api.pdb
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\csc.exe
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\csc.exe.config
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\csc.rsp
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\csi.exe
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\csi.exe.config
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\csi.rsp
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\Microsoft.Managed.Core.targets
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.AppContext.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.Collections.Immutable.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.Console.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.IO.Compression.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.IO.FileSystem.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.IO.Pipes.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.Reflection.Metadata.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.Security.AccessControl.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.Security.Claims.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.Security.Principal.Windows.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.ValueTuple.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.Xml.XmlDocument.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.Xml.XPath.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\vbc.exe
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\vbc.exe.config
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\vbc.rsp
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\VBCSCompiler.exe
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\roslyn\VBCSCompiler.exe.config
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\Antlr3.Runtime.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\Iesi.Collections.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\Microsoft.Web.Infrastructure.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\Nad.Trainning.Server.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\Newtonsoft.Json.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\NHibernate.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\Sda.Core.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\Sda.Data.NHibernateAccess.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\Sda.Utils.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Net.Http.Formatting.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Web.Cors.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Web.Helpers.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Web.Http.Cors.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Web.Http.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Web.Http.WebHost.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Web.Mvc.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Web.Optimization.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Web.Razor.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Web.WebPages.Deployment.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Web.WebPages.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Web.WebPages.Razor.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\WebGrease.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\Nad.Trainning.Server.pdb
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Net.Http.Formatting.xml
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Web.Http.xml
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Web.Http.Cors.xml
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\Newtonsoft.Json.xml
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Web.Helpers.xml
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Web.Http.WebHost.xml
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Web.Mvc.xml
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Web.Optimization.xml
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Web.Razor.xml
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Web.WebPages.xml
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Web.WebPages.Deployment.xml
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\System.Web.WebPages.Razor.xml
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\Antlr3.Runtime.pdb
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\obj\Debug\Nad.Trainning.Api.csprojAssemblyReference.cache
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\obj\Debug\Nad.Trainning.Api.csproj.CoreCompileInputs.cache
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\obj\Debug\Nad.Trainning.Api.csproj.CopyComplete
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\obj\Debug\Nad.Trainning.Api.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Api\obj\Debug\Nad.Trainning.Api.pdb

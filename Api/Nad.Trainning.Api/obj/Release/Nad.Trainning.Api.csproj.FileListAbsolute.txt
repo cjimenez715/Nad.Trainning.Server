@@ -1,0 +1,1 @@
+D:\NAD Training\Nad.Trainning.Server\Api\Nad.Trainning.Api\obj\Release\Nad.Trainning.Api.csprojResolveAssemblyReference.cache

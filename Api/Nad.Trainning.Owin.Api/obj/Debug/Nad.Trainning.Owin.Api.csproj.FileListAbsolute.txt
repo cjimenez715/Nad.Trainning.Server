@@ -31,3 +31,36 @@ C:\Disk D Cristhian\Task TFS\GIT\Nad.Trainning.Server\Api\Nad.Trainning.Owin.Api
 C:\Disk D Cristhian\Task TFS\GIT\Nad.Trainning.Server\Api\Nad.Trainning.Owin.Api\bin\Sda.Utils.dll
 C:\Disk D Cristhian\Task TFS\GIT\Nad.Trainning.Server\Api\Nad.Trainning.Owin.Api\bin\Nad.Trainning.Server.pdb
 C:\Disk D Cristhian\Task TFS\GIT\Nad.Trainning.Server\Api\Nad.Trainning.Owin.Api\obj\Debug\Nad.Trainning.Owin.Api.csprojAssemblyReference.cache
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Owin.Api\bin\Nad.Trainning.Owin.Api.dll.config
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Owin.Api\bin\Nad.Trainning.Owin.Api.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Owin.Api\bin\Nad.Trainning.Owin.Api.pdb
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Owin.Api\bin\Iesi.Collections.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Owin.Api\bin\Microsoft.Owin.Cors.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Owin.Api\bin\Microsoft.Owin.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Owin.Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Owin.Api\bin\Nad.Trainning.Server.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Owin.Api\bin\Newtonsoft.Json.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Owin.Api\bin\NHibernate.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Owin.Api\bin\Owin.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Owin.Api\bin\Sda.Core.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Owin.Api\bin\Sda.Data.NHibernateAccess.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Owin.Api\bin\Sda.Utils.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Owin.Api\bin\System.Net.Http.Formatting.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Owin.Api\bin\System.Web.Cors.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Owin.Api\bin\System.Web.Http.Cors.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Owin.Api\bin\System.Web.Http.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Owin.Api\bin\System.Web.Http.Owin.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Owin.Api\bin\Nad.Trainning.Server.pdb
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Owin.Api\bin\Microsoft.Owin.xml
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Owin.Api\bin\Microsoft.Owin.Cors.xml
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Owin.Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Owin.Api\bin\Newtonsoft.Json.xml
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Owin.Api\bin\System.Net.Http.Formatting.xml
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Owin.Api\bin\System.Web.Http.xml
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Owin.Api\bin\System.Web.Http.Cors.xml
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Owin.Api\bin\System.Web.Http.Owin.xml
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Owin.Api\obj\Debug\Nad.Trainning.Owin.Api.csprojAssemblyReference.cache
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Owin.Api\obj\Debug\Nad.Trainning.Owin.Api.csproj.CoreCompileInputs.cache
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Owin.Api\obj\Debug\Nad.Trainning.Owin.Api.csproj.CopyComplete
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Owin.Api\obj\Debug\Nad.Trainning.Owin.Api.dll
+D:\NAD Training v2\Nad.Trainning.Server\Api\Nad.Trainning.Owin.Api\obj\Debug\Nad.Trainning.Owin.Api.pdb

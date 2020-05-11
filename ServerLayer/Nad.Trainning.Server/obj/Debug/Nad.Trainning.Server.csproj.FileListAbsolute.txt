@@ -17,3 +17,16 @@ C:\Disk D Cristhian\Task TFS\NAD.Angular\NADTrainning\Nad.Trainning.Server\Serve
 C:\Disk D Cristhian\Task TFS\NAD.Angular\NADTrainning\Nad.Trainning.Server\ServerLayer\Nad.Trainning.Server\obj\Debug\Nad.Trainning.Server.csproj.CopyComplete
 C:\Disk D Cristhian\Task TFS\NAD.Angular\NADTrainning\Nad.Trainning.Server\ServerLayer\Nad.Trainning.Server\obj\Debug\Nad.Trainning.Server.dll
 C:\Disk D Cristhian\Task TFS\NAD.Angular\NADTrainning\Nad.Trainning.Server\ServerLayer\Nad.Trainning.Server\obj\Debug\Nad.Trainning.Server.pdb
+D:\NAD Training\Nad.Trainning.Server\ServerLayer\Nad.Trainning.Server\bin\Debug\Nad.Trainning.Server.dll
+D:\NAD Training\Nad.Trainning.Server\ServerLayer\Nad.Trainning.Server\bin\Debug\Nad.Trainning.Server.pdb
+D:\NAD Training\Nad.Trainning.Server\ServerLayer\Nad.Trainning.Server\obj\Debug\Nad.Trainning.Server.dll
+D:\NAD Training\Nad.Trainning.Server\ServerLayer\Nad.Trainning.Server\obj\Debug\Nad.Trainning.Server.pdb
+D:\NAD Training\Nad.Trainning.Server\ServerLayer\Nad.Trainning.Server\obj\Debug\Nad.Trainning.Server.csproj.CoreCompileInputs.cache
+D:\NAD Training\Nad.Trainning.Server\ServerLayer\Nad.Trainning.Server\obj\Debug\Nad.Trainning.Server.csproj.CopyComplete
+D:\NAD Training v2\Nad.Trainning.Server\ServerLayer\Nad.Trainning.Server\bin\Debug\Nad.Trainning.Server.dll
+D:\NAD Training v2\Nad.Trainning.Server\ServerLayer\Nad.Trainning.Server\bin\Debug\Nad.Trainning.Server.pdb
+D:\NAD Training v2\Nad.Trainning.Server\ServerLayer\Nad.Trainning.Server\obj\Debug\Nad.Trainning.Server.csprojAssemblyReference.cache
+D:\NAD Training v2\Nad.Trainning.Server\ServerLayer\Nad.Trainning.Server\obj\Debug\Nad.Trainning.Server.csproj.CoreCompileInputs.cache
+D:\NAD Training v2\Nad.Trainning.Server\ServerLayer\Nad.Trainning.Server\obj\Debug\Nad.Trainning.Server.csproj.CopyComplete
+D:\NAD Training v2\Nad.Trainning.Server\ServerLayer\Nad.Trainning.Server\obj\Debug\Nad.Trainning.Server.dll
+D:\NAD Training v2\Nad.Trainning.Server\ServerLayer\Nad.Trainning.Server\obj\Debug\Nad.Trainning.Server.pdb

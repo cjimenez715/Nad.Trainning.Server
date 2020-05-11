@@ -17,21 +17,13 @@ namespace Nad.Trainning.Server.Test
 
         [TestMethod]
         public void SaveTest()
-        {
+       { 
             var business = new PersonBusiness();
             var person = new Person();
             person.Name = "Test Save";
             person.LastName = "From GIT";
             person.Age = 50;
             var result = business.Save(person);
-        }
-
-
-        [TestMethod]
-        public void GetAllTes2t()
-        {
-            var business = new PersonBusiness();
-            var result = business.GetAll();
         }
     }
 }
