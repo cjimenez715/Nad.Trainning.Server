@@ -29,10 +29,3 @@ D:\NAD Training v2\Nad.Trainning.Server\ServerLayer\Nad.Trainning.Server\obj\Deb
 D:\NAD Training v2\Nad.Trainning.Server\ServerLayer\Nad.Trainning.Server\obj\Debug\Nad.Trainning.Server.csproj.CopyComplete
 D:\NAD Training v2\Nad.Trainning.Server\ServerLayer\Nad.Trainning.Server\obj\Debug\Nad.Trainning.Server.dll
 D:\NAD Training v2\Nad.Trainning.Server\ServerLayer\Nad.Trainning.Server\obj\Debug\Nad.Trainning.Server.pdb
-C:\Disk D Cristhian\Task TFS\GIT\Nad.Trainning.Server\ServerLayer\Nad.Trainning.Server\bin\Debug\Nad.Trainning.Server.dll
-C:\Disk D Cristhian\Task TFS\GIT\Nad.Trainning.Server\ServerLayer\Nad.Trainning.Server\bin\Debug\Nad.Trainning.Server.pdb
-C:\Disk D Cristhian\Task TFS\GIT\Nad.Trainning.Server\ServerLayer\Nad.Trainning.Server\obj\Debug\Nad.Trainning.Server.csprojAssemblyReference.cache
-C:\Disk D Cristhian\Task TFS\GIT\Nad.Trainning.Server\ServerLayer\Nad.Trainning.Server\obj\Debug\Nad.Trainning.Server.csproj.CoreCompileInputs.cache
-C:\Disk D Cristhian\Task TFS\GIT\Nad.Trainning.Server\ServerLayer\Nad.Trainning.Server\obj\Debug\Nad.Trainning.Server.csproj.CopyComplete
-C:\Disk D Cristhian\Task TFS\GIT\Nad.Trainning.Server\ServerLayer\Nad.Trainning.Server\obj\Debug\Nad.Trainning.Server.dll
-C:\Disk D Cristhian\Task TFS\GIT\Nad.Trainning.Server\ServerLayer\Nad.Trainning.Server\obj\Debug\Nad.Trainning.Server.pdb

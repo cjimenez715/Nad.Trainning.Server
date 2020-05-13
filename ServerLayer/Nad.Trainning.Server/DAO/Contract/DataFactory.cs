@@ -28,6 +28,11 @@ namespace Nad.Trainning.Server.DAO.Contract
         public IPersonDAO GetPersonDAO()
         {
             return this.GetInstance<IPersonDAO>("PersonDAO");
+     
+   }
+        public ICatDAO GetCatDAO()
+        {
+            return this.GetInstance<ICatDAO>("CatDAO");
         }
     }
 }

@@ -57,13 +57,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Business\CatBusiness.cs" />
     <Compile Include="Business\PersonBusiness.cs" />
     <Compile Include="DAO\Contract\DataFactory.cs" />
+    <Compile Include="DAO\Contract\ICatDAO.cs" />
     <Compile Include="DAO\Contract\IPersonDAO.cs" />
     <Compile Include="DAO\Entities\Cat.cs" />
     <Compile Include="DAO\Entities\Person.cs" />
+    <Compile Include="DAO\NhContext\CatDAO.cs" />
     <Compile Include="DAO\NhContext\PersonDAO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="DAO\NhContext\Mapping\Cat.hbm.xml" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="DAO\NhContext\Mapping\Person.hbm.xml" />
