@@ -16,10 +16,12 @@ namespace Nad.Trainning.Owin.Api.Controllers
         {
             business = new PersonBusiness();
         }
-        public IHttpActionResult Get()
+
+        [Route("getById/{Id}")]
+        [HttpGet]
+        public Person GetById(int id)
         {
-            var result = business.GetAll().FirstOrDefault();
-            return Ok(result);
+            return business.GetAll().FirstOrDefault();
         }
         [Route("getAll")]
         [HttpGet]
@@ -34,6 +36,7 @@ namespace Nad.Trainning.Owin.Api.Controllers
             business.Delete(person);
             return Ok();
         }
+
         [Route(), HttpPost]
         public Person Post( [FromBody] Person person)
         {
