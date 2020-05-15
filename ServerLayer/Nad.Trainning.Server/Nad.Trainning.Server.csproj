@@ -60,7 +60,6 @@
     <Compile Include="Business\PersonBusiness.cs" />
     <Compile Include="DAO\Contract\DataFactory.cs" />
     <Compile Include="DAO\Contract\IPersonDAO.cs" />
-    <Compile Include="DAO\Entities\Cat.cs" />
     <Compile Include="DAO\Entities\Person.cs" />
     <Compile Include="DAO\NhContext\PersonDAO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

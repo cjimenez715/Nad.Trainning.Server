@@ -28,14 +28,13 @@ namespace Nad.Trainning.Owin.Api.Controllers
         {
             return business.GetAll();
         }
-        [Route("DeleteById/{Id}")]
+        [Route("deleteById/{Id}")]
         [HttpDelete]
-        public IHttpActionResult Delete(int Id) {
+        public void Delete(int Id) {
             var person = business.GetById(Id);
             business.Delete(person);
-            return Ok();
         }
-        [Route(), HttpPost]
+        [Route(), HttpPost, HttpPut]
         public Person Post( [FromBody] Person person)
         {
             var result = business.Save(person);
