@@ -25,5 +25,14 @@ namespace Nad.Trainning.Server.Test
             person.Age = 50;
             var result = business.Save(person);
         }
+
+        [TestMethod]
+        public void GetTest()
+        {
+            var business = new PersonBusiness();
+            var result = business.GetById(25); ;
+
+        }
+
     }
 }

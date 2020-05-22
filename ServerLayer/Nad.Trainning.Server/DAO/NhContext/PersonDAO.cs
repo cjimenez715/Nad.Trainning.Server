@@ -16,8 +16,9 @@ namespace Nad.Trainning.Server.DAO.NhContext
         IList<Person> IPersonDAO.GetByFilter(string filter)
         {
             ICriteria criteria = GetDefaultSession().CreateCriteria(typeof(Person));
-            criteria.Add(Expression.Or(Expression.Like("Code", filter + Sda.Core.Data.Constants.WILDCARD),
-                                       Expression.Like("Name", filter + Sda.Core.Data.Constants.WILDCARD)));
+            criteria.Add(Expression.Or(Expression.Like("Name", filter + Sda.Core.Data.Constants.WILDCARD),
+                                       Expression.Like("LastName", filter + Sda.Core.Data.Constants.WILDCARD))
+                                       );
             return criteria.List<Person>();
         }
     }

@@ -6,5 +6,6 @@
     <property name="Name" column="Name" type="AnsiString" />
     <property name="LastName" column="LastName" type="AnsiString" />
     <property name="Age" column="Age" type="Int32" />
+    <many-to-one name="Parent" column="ParentId" class="Nad.Trainning.Server.DAO.Entities.Person, Nad.Trainning.Server.DAO.Entities" />
   </class>
 </hibernate-mapping>

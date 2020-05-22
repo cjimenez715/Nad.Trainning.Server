@@ -40,5 +40,10 @@ namespace Nad.Trainning.Server.Business
         {
             return dataAccess.GetByFilter(filter);
         }
+
+        public IList<Person> GetByFilterExceptId(string filter, int personId)
+        {
+            return dataAccess.GetByFilter(filter).Where(p => p.Id != personId).ToList();
+        }
     }
 }

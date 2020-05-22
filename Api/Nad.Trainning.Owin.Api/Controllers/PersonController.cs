@@ -28,6 +28,13 @@ namespace Nad.Trainning.Owin.Api.Controllers
         {
             return business.GetAll();
         }
+
+        [Route("getByFilterExceptId/{filter}/{id}")]
+        [HttpGet]
+        public IList<Person> GetByFilterExceptId(string filter, int id)
+        {
+            return business.GetByFilterExceptId(filter, id);
+        }
         [Route("deleteById/{Id}")]
         [HttpDelete]
         public void Delete(int Id) {

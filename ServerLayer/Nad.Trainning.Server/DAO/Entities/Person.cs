@@ -12,5 +12,6 @@ namespace Nad.Trainning.Server.DAO.Entities
         public string Name { get; set; }
         public string LastName { get; set; }
         public int Age { get; set; }
+        public Person Parent { get; set; }
     }
 }
